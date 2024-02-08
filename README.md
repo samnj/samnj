@@ -4,4 +4,4 @@
 - Reach me [@samnj](https://www.samnj.me/)
 
 ## Languages and tools
-[![](https://skillicons.dev/icons?i=js,ts,react,nextjs,jest,tailwind,nodejs,mysql,mongodb,py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,ts,astro,react,nextjs,jest,tailwind,nodejs,mysql,mongodb,py)](https://skillicons.dev)
